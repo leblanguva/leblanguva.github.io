@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :   # TODO: paste your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=6G2aZ3UAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :   # TODO: paste your ORCID URL (e.g. https://orcid.org/0000-0000-0000-0000)
