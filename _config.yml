@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "David Leblang"
 title_separator          : "-"
 name                     : &name "David Leblang"
-description              : &description "David Leblang — Political economist at the University of Virginia"
+description              : &description "David Leblang — Political economy of global migration and financial markets, University of Virginia"
 url                      : https://leblanguva.github.io
 baseurl                  : ""
 repository               : "leblanguva/leblanguva.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"   # TODO: replace images/profile.png with your headshot
   name             : "David Leblang"
   pronouns         :
-  bio              : "International political economy: monetary politics, migration, trade."
+  bio              : "Political economy of global migration and financial markets."
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   uri              :
