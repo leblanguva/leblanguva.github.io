@@ -131,7 +131,7 @@ Department of Politics, University of Virginia · Charlottesville, VA 22904 · [
 - **2021** — Member, Executive Director of Federal Relations and Special Assistant to the President Search Committee
 - **2020–2022** — Member, School of Data Science Promotion and Tenure Committee
 - **2019–2021** — Member, College of Arts and Sciences Promotion and Tenure Committee
-- **2019–present** — Associate Director, Global Infectious Disease Institute
+- **2019–2023** — Associate Director, Global Infectious Disease Institute
 - **2018–2020** — Member, Executive Advisory Board, Batten School of Leadership & Public Policy
 - **2018–2021** — Member, Applied Research Institute Advisory Committee
 - **2019–2020** — Member, Organizational Excellence Research Council
