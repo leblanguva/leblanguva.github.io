@@ -10,7 +10,9 @@ Drafts under review or in preparation. Please [email me](mailto:leblang@virginia
 ---
 
 ### Trade Networks Multiply the Global Health Returns to Bilateral Aid
-*Formerly: "Aid and AIDs — PEPFAR, Globalization, and the Spread of Infectious Disease."* With Dennis Wesselbaum. Under review. [→ Preprint (Research Square)](https://www.researchsquare.com/article/rs-9405085/latest)
+*Formerly: "Aid and AIDs — PEPFAR, Globalization, and the Spread of Infectious Disease."* With Dennis Wesselbaum. Under review. [→ Preprint (Research Square)](https://www.researchsquare.com/article/rs-9405085/latest) · [→ Background paper (PDF)](/files/Leblang_PEPFAR_03Mar26.pdf)
+
+*The background paper develops the formal model that underlies the empirical analysis in the working paper above.*
 
 ### The Political Economy of Crypto-Currency: Theory and Evidence
 With Ghita Chraibi. Under review. [→ Download draft (PDF)](/files/PE_of_Crypto.pdf)
