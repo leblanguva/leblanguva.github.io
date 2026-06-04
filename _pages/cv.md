@@ -102,13 +102,10 @@ Department of Politics, University of Virginia · Charlottesville, VA 22904 · [
 
 ## Publications
 
-The full list lives on its own pages:
-
-- **[Publications](/publications/)** — 2 books, 60 refereed articles, 11 book chapters, 4 conference papers
-- **[Working Papers](/working-papers/)** — 7 papers currently under review or in preparation
-- **[Public Writing](/public-writing/)** — op-eds, policy briefs, and shorter pieces for general audiences
-
-For a single document with everything in one place, [download the complete CV (PDF)](/files/cv.pdf).
+- [Publications](/publications/)
+- [Working Papers](/working-papers/)
+- [Public Writings](/public-writing/)
+- [Download complete CV](/files/cv.pdf)
 
 ---
 
