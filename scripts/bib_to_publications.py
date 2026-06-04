@@ -28,6 +28,30 @@ DEFAULT_CATEGORY = {
     "INPROCEEDINGS": "conferences",
 }
 
+# BibTeX keys to skip (duplicates, reprints, miscategorized).
+# Keyed by the BibTeX cite key (the thing right after `@TYPE{`).
+SKIP_KEYS = {
+    "Jupille2008189": "Duplicate Scopus citation-correction record for 'Voting for change'",
+    "Bernhard2017569": "Reprint of 1999 IO paper in Cohen (ed.) edited volume",
+    "Milkis20191": "Scopus mis-tagged this as a book; it is an online essay (added to Public Writing)",
+}
+
+# Title overrides (CV title supersedes Scopus's mangling).
+TITLE_OVERRIDES = {
+    "Leblang2003533": "To Defend or to Devalue: The Political Economy of Exchange Rate Policy",
+    "Mukherjee2007135": "Elections, Partisan Politics and Stock Market Performance: Theory and Evidence from a Century of American and British Returns",
+    "Leblang1999599": "Democratic Political Institutions and Exchange Rate Commitments in the Developing World",
+    "Eichengreen201991": "Populists at the Polls: Economic, Political, and Social Factors in the 1896 Presidential Election",
+    "Granato1996607": "The Effect of Cultural Attitudes on Economic Development: Theory, Hypotheses and Some Empirical Tests",
+    "Pandya201791": "Deal or No Deal: Institutions versus Social Networks in FDI",
+    "Leblang2000291": "Speculative Attacks in Industrial Democracies: The Role of Politics",
+}
+
+# URL overrides (better canonical link than the DOI).
+URL_OVERRIDES = {
+    "Leblang20231": "https://www.cambridge.org/core/books/ties-that-bind/7ADD4C6386E4D52A78AA163D6205014E",
+}
+
 # ---------- BibTeX parsing ----------
 
 ENTRY_RE = re.compile(r"@(?P<type>[A-Za-z]+)\{(?P<key>[^,]+),(?P<body>.*?)\n\}", re.DOTALL)
@@ -97,7 +121,11 @@ def render(entry: dict) -> tuple[str, str] | None:
     if category is None:
         return None
 
-    title = entry.get("title", "").strip()
+    key = entry.get("_key", "")
+    if key in SKIP_KEYS:
+        return None
+
+    title = TITLE_OVERRIDES.get(key, entry.get("title", "")).strip()
     year = entry.get("year", "").strip()
     if not title or not year:
         return None
@@ -149,8 +177,8 @@ def render(entry: dict) -> tuple[str, str] | None:
             cite_bits.append(f"pp. {pages}.")
         citation = " ".join(cite_bits)
 
-    # External link: prefer DOI
-    paperurl = f"https://doi.org/{doi}" if doi else ""
+    # External link: URL override > DOI
+    paperurl = URL_OVERRIDES.get(key) or (f"https://doi.org/{doi}" if doi else "")
 
     # Filename / permalink
     date = f"{year}-01-01"
