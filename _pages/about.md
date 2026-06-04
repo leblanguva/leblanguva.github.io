@@ -20,7 +20,6 @@ His most recent book, [*The Ties That Bind: Immigration and the Global Political
 - Frank Batten School of Leadership and Public Policy
 - School of Data Science *(courtesy)*
 - Program in Jewish Studies *(affiliated faculty)*
-- Global Infectious Disease Institute *(Associate Director)*
 
 ## Visiting Positions
 
