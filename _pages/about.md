@@ -15,18 +15,6 @@ Prior to arriving at the University of Virginia in 2008, Leblang held teaching p
 
 He is an enthusiastic and unabashed fan of Bruce Springsteen and the New York Mets, a parent of two children (one a rising third-year), and one golden retriever.
 
-## Affiliations at UVA
-
-- Department of Politics
-- Miller Center of Public Affairs
-- Frank Batten School of Leadership and Public Policy
-- School of Data Science *(courtesy)*
-- Program in Jewish Studies *(affiliated faculty)*
-
-## Visiting Positions
-
-International Monetary Fund · European Commission, Directorate of Economics and Finance · University of St. Gallen · University of Milan · Interdisciplinary Center Herzliya · Harvard University, Weatherhead Center for International Affairs.
-
 ## Contact
 
 Gibson Hall 281, University of Virginia, Charlottesville, VA 22904.
