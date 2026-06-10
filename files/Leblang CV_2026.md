@@ -146,6 +146,12 @@ of Diverse Data, ($68,500)
 2000 \- 2001	“To Defend or Devalue,” NSF ($48,600)
 
 **Internal**  
+2026 \- 2027	“The AI Shock and American Democracy: Labor Displacement, Political Geography, and   
+the Redistribution of Democratic Power,” Digital Technology and Democracy Grand   
+Challenge Grant ($50,000)  
+2026 \- 2027	“The Relative Role of Environmental Change in Out-migration from Central America to   
+the United States: Implications for Politics and Policy,” (with Kiril Zhirkov and Kathleen   
+Schiro), 3Cavaliers 3.1 Initiative ($80,000)  
 2025 \- 2026	“Internal Migration and Housing,” McIntire Real Estate Center ($30,000)  
 2021 \- 2022	“COVID-19 and Supply Chain Risk,” (with Sonal Pandya), Bankard Fund for  
  Political Economy ($48,000)  
@@ -440,7 +446,7 @@ Provost
 Search Committee  
 2020 \- 2022	Member, School of Data Science Promotion and Tenure Committee  
 2019 \- 2021	Member, College of Arts and Sciences Promotion and Tenure Committee  
-2019 \- 		Associate Director, Global Infectious Disease Institute  
+2019 \- 2023	Associate Director, Global Infectious Disease Institute  
 2018 \- 2020	Member, Executive Advisory Board, Batten School of Leadership & Public Policy  
 2018 \- 2021	Member, Applied Research Institute, Advisory Committee  
 2019 \- 2020	Member, Organizational Excellence Research Council  

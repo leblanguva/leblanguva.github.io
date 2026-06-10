@@ -86,6 +86,8 @@ Department of Politics, University of Virginia · Charlottesville, VA 22904 · [
 
 ### Internal
 
+- **2026–2027** — "The AI Shock and American Democracy: Labor Displacement, Political Geography, and the Redistribution of Democratic Power," Digital Technology and Democracy Grand Challenge Grant, $50,000
+- **2026–2027** — "The Relative Role of Environmental Change in Out-migration from Central America to the United States: Implications for Politics and Policy" *(with Kiril Zhirkov and Kathleen Schiro)*, 3Cavaliers 3.1 Initiative, $80,000
 - **2025–2026** — "Internal Migration and Housing," McIntire Real Estate Center, $30,000
 - **2021–2022** — "COVID-19 and Supply Chain Risk" *(with Sonal Pandya)*, Bankard Fund for Political Economy, $48,000
 - **2020–2023** — "Humanitarian Research Collaborative" *(with Lucy Bassett and Kirsten Gelsdorf)*, UVA Strategic Investment Fund, $600,000
