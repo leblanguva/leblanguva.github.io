@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Local working-paper PDFs not meant for public hosting
+files/PNAS_CAM_paper_*.pdf
