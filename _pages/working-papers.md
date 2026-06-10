@@ -23,8 +23,8 @@ With Christianna Palermo. Under review. [→ Download draft (PDF)](/files/Leblan
 ### When Do Law Enforcement Policies Generate Economic Spillovers?
 With Christianna Palermo. Under review. [→ Download draft (PDF)](/files/spatial_incidence_paper_circulation.pdf)
 
-### Assessing the Spatial and Temporal Effects of Visa Restrictions in the Western Hemisphere
-With Sophia Marcus and Jordi Amaral. Under second review.
+### Deflection and Delay, Not Deterrence: Visa Restrictions and Irregular Migration to the United States
+With Jordi Amaral and Sophia Marcus. Under review. [→ Download draft (PDF)](/files/deflection-and-delay.pdf)
 
 ### Racial Disparities in US Environmental Migration
 With Gabriela Nagle Alverio. Under review.
