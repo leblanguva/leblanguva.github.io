@@ -31,3 +31,6 @@ With Gabriela Nagle Alverio. Under review.
 
 ### Climate Change, Agricultural Shocks, and Migration
 With Sarah Bermeo and Gabriela Nagle Alverio. Under review.
+
+### Heterogeneous Effects of Climate, Narco-Trafficking, and Violence on Central American Migration to the United States
+With Fabien Cottier, David Wrathall, Jennifer A. Devine, Elise Arellano-Thompson, Rebecca Gustine, Nicholas Magliocca, Jennifer Nakamura, Elizabeth Tellman, and Alex de Sherbinin. Forthcoming in *PNAS*. [→ Preprint (SocArXiv)](https://osf.io/preprints/socarxiv/kyu9x_v1)
