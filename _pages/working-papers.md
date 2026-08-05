@@ -14,6 +14,12 @@ Drafts under review or in preparation. Please [email me](mailto:leblang@virginia
 
 *The background paper develops the formal model that underlies the empirical analysis in the working paper above.*
 
+### Bodies and Borders: Reproductive Nationalism from the 1920s to the 2020s
+Under review. [→ Download draft (PDF)](/files/historical_v4.pdf)
+
+### Make, Take, Buy, Build, Replace: Labor Supply and the Politics of Membership
+Under review. [→ Download draft (PDF)](/files/labor-supply-essay-v8.pdf)
+
 ### The Political Economy of Crypto-Currency: Theory and Evidence
 With Ghita Chraibi. Under review. [→ Download draft (PDF)](/files/PE_of_Crypto.pdf)
 
