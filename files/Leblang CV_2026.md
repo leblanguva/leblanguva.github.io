@@ -1,7 +1,7 @@
 **David Leblang**
 
 Department of Politics, University of Virginia					[leblang@virginia.edu](mailto:leblang@virginia.edu)  
-Charlottesville, VA  22904					[politics.virginia.edu/people/profile/dalw](https://politics.virginia.edu/people/profile/dal7w)	
+Charlottesville, VA  22904					[politics.virginia.edu/people/profile/dal7w](https://politics.virginia.edu/people/profile/dal7w)	
 
 **EDUCATION**  
 1993		Ph.D., Political Science, Vanderbilt University  
@@ -19,7 +19,7 @@ Virginia
 2015 \- 		Affiliated Faculty, Data Science Institute/School of Data Science, University of Virginia  
 2009 \- 		Professor of Public Policy, Frank Batten School of Leadership & Public Policy,   
 University of Virginia  
-2018 \- 2019	Dorthy Danforth Compton Professor of Public Affairs, Miller Center  
+2018 \- 2019	Dorothy Danforth Compton Professor of Public Affairs, Miller Center  
 2008 \- 2018	J Wilson Newman Professor of Governance, Professor of Politics, University of Virginia  
 2006 \- 2009	Professor of Political Science, University of Colorado  
 2002 \- 2006	Associate Professor of Political Science, University of Colorado  
@@ -32,6 +32,8 @@ University of Virginia
 of Arts and Sciences, University of Virginia.  
 2020 \- 2022	Special Advisor to the Dean for Strategic Initiatives, College of Arts and Sciences,  
 University of Virginia  
+2019 \- 2023	Associate Director, Global Infectious Disease Pan University Institute, University of   
+Virginia  
 2017 \-		Director, Miller Center of Public Affairs Fellows Program, University of Virginia  
 2015 \- 2023	Founding Director, Global Policy Center, Frank Batten School of Leadership & Public   
 Policy  
@@ -69,8 +71,8 @@ Management and Budgeting
 
 - Led the largest department in the College of Arts and Sciences: 43 tenure-track faculty, 900 majors and approximately 75 graduate students.  
 - Responsible for hiring, supervising, and evaluating four administrative staff.  
-- Managed department’s $4 million salary budget.  
-- Used additional $250,000/year in discretionary income for recruitment, retention, and student/faculty research initiatives.
+- Managed department’s \$4 million salary budget.  
+- Used additional \$250,000/year in discretionary income for recruitment, retention, and student/faculty research initiatives.
 
 Hiring and Personnel Matters
 
@@ -85,7 +87,7 @@ Program Design and Creation
 - Wrote external review and response;  
 - Led team that fundamentally redesigned undergraduate program requirements;  
 - Helped implement new graduate track in political methodology;  
-- Raised funds for new programs in Power Violence, and Inequality and in Race and Politics.
+- Raised funds for new programs in Power, Violence, and Inequality and in Race and Politics.
 
 Development Experience  
 \-	Created Department of Politics Alumni Advisory Board to cultivate long-term relationships with   
@@ -111,7 +113,7 @@ EDGE, and Catalyst;
 
 on displacement, early childhood development, and data analytics;
 
-- Center has $40k/year operating budget; Center has raised over $1.5 million in contracts and
+- Center has \$40k/year operating budget; Center has raised over \$1.5 million in contracts and
 
 grants;
 
@@ -136,42 +138,42 @@ Political Science Annual Meeting
 **CONTRACTS & GRANTS**  
 **External**  
 2022-2023	Scientific Systems Company, Inc, Subcontract from the DOD’s Framework for Analysis   
-of Diverse Data, ($68,500)  
+of Diverse Data, (\$68,500)  
 2020 \- 2023	“MDI \- UVA Predictive Displacement Innovation Partnership, “ Save the Children,   
-		International, ($25,000)  
-2020		“COVID-19 and Supply Chain Risk,” Interos.ai, June-August, ($50,000)  
-2017 \- 2018	“Modeling International Migrant Flows,” Department of Homeland Security ($447,000)  
-2008		“A Referendum on Debt: Public Opinion and Icesave,” NSF ($86,500)  
-2002 \- 2005	“Political Economy of Exchange Rate Regimes,” NSF ($216,534)  
-2000 \- 2001	“To Defend or Devalue,” NSF ($48,600)
+		International, (\$25,000)  
+2020		“COVID-19 and Supply Chain Risk,” Interos.ai, June-August, (\$50,000)  
+2017 \- 2018	“Modeling International Migrant Flows,” Department of Homeland Security (\$447,000)  
+2008		“A Referendum on Debt: Public Opinion and Icesave,” NSF (\$86,500)  
+2002 \- 2005	“Political Economy of Exchange Rate Regimes,” NSF (\$216,534)  
+2000 \- 2001	“To Defend or Devalue,” NSF (\$48,600)
 
 **Internal**  
 2026 \- 2027	“The AI Shock and American Democracy: Labor Displacement, Political Geography, and   
 the Redistribution of Democratic Power,” Digital Technology and Democracy Grand   
-Challenge Grant ($50,000)  
+Challenge Grant (\$50,000)  
 2026 \- 2027	“The Relative Role of Environmental Change in Out-migration from Central America to   
 the United States: Implications for Politics and Policy,” (with Kiril Zhirkov and Kathleen   
-Schiro), 3Cavaliers 3.1 Initiative ($80,000)  
-2025 \- 2026	“Internal Migration and Housing,” McIntire Real Estate Center ($30,000)  
+Schiro), 3Cavaliers 3.1 Initiative (\$80,000)  
+2025 \- 2026	“Internal Migration and Housing,” McIntire Real Estate Center (\$30,000)  
 2021 \- 2022	“COVID-19 and Supply Chain Risk,” (with Sonal Pandya), Bankard Fund for  
- Political Economy ($48,000)  
+ Political Economy (\$48,000)  
 2020 \- 2023	“Humanitarian Research Collaborative,” (with Lucy Bassett and Kirsten Gelsdorf), UVA  
- Strategic Investment Fund ($600,000)  
+ Strategic Investment Fund (\$600,000)  
 2019 \- 2020	“Network-based Mobility Modeling for Complex Humanitarian Emergencies,” (with  
  Bryan Lewis), UVA Global Infectious Disease Institute  
-2017 \- 2018	“Modeling Refugee Flows,” UVA Bankard Fund for Political Economy ($27,900)  
+2017 \- 2018	“Modeling Refugee Flows,” UVA Bankard Fund for Political Economy (\$27,900)  
 2015 \- 2016	“How to Deter Unauthorized Migration,” UVA Bankard Fund for Political Economy   
-($26,500)  
+(\$26,500)  
 2013 \- 2014	“Migrant Entrepreneurship in Emerging Markets,” Batten Institute, Darden Business  
- School ($12,000)   
+ School (\$12,000)   
 2013 \- 2014	“The Political Economy of Migrant Remittances: Dual Citizenship and External Voting  
- Rights,” Bankard Fund for Political Economy ($29,000)   
+ Rights,” Bankard Fund for Political Economy (\$29,000)   
 2011 \- 2013	“Migrant Entrepreneurs, Remittances and Venture Capital in Emerging Markets,” Batten  
- Institute, Darden Business School ($22,500)   
+ Institute, Darden Business School (\$22,500)   
 2011 \- 2012	“Occupational Licensing and the Migration of Skilled Professionals,” (with Sonal   
-Pandya), Bankard Fund for Political Economy ($49,500)  
+Pandya), Bankard Fund for Political Economy (\$49,500)  
 2010 \- 2011	“Another Link in the Chain: Migrant Networks and International Investment,” Bankard  
- Fund for Political Economy ($25,000) 
+ Fund for Political Economy (\$25,000) 
 
 **PUBLICATIONS (\*student coauthor)**
 
@@ -184,17 +186,19 @@ Cambridge University Press
 
 **Refereed articles and contributions to conference volumes**
 
+Forthcoming	“Food Insecurity as a Global Risk Factor for Loneliness and Social Isolation,” (with   
+Mariska Kappmeier and Dennis Wesselbaum),  *American Journal of Public Health*.  
 Forthcoming	“Heterogeneous Effects of Climate, Narco trafficking, and Violence on Central American  
  Migration to the United States,” (with Fabien Cottier, Jennifer Devine, David Wrathall,   
-Elise Arellano-Thompson, Rebecca Gustine, Nicholas Maglocca, Jennifer Nakamura,  
-Elizabeth Tellman, and Alex de Sherbinin). PNAS  
-Forthcoming	“Food Insecurity as a Global Risk Factor for Loneliness and Social Isolation,” (with   
-Mariska Kappmeier and Dennes Wesselbaum), European Journal of Epidemiology,  
- forthcoming.	  
+Elise Arellano-Thompson, Rebecca Gustine, Nicholas Magliocca, Jennifer Nakamura,  
+Elizabeth Tellman, and Alex de Sherbinin). *Proceedings of the National Academy of*   
+*Science*  
+2026		“Loneliness Around the World: Patterns, Predictors, and Well-Being Implications,” (with   
+Dennis Wesselbaum), *European Journal of Epidemiology,* Published online, June 2026  
 2026		“Working 9 to 5: The Global Impact of Jobs on Subjective Well-Being,” (with Trevin   
-Glasgow and Dennis Wesselbaum), Applied Research in Quality of Life, Published online May 2026\.  
-2025		“Food Insecurity Across Age: Evidence from a Global Study,” Global Food Security,   
-(with Dennes Wesselbaum and Michael Smith), 47, December  
+Glasgow and Dennis Wesselbaum), *Applied Research in Quality of Life*, Published online May 2026\.  
+2025		“Food Insecurity Across Age: Evidence from a Global Study,” *Global Food Security*,   
+(with Dennis Wesselbaum and Michael Smith), 47, December  
 2025		"Agent-based Social Simulation of Spatiotemporal Process-triggered Graph Dynamical   
 Systems." (with Mehrab, Z., Ravi, S., Mortveit, H. S., Venkatramanan, S., Swarup, S.,   
 Lewis, B.,  and Marathe, M), *Proc. of WSC*, 2025\.  
@@ -238,7 +242,7 @@ Eichengreen, Michael Haines, and Matt Jaremski)
 *Research*, 58:248-69  
 2018		“Ethnocentrism Reduces Foreign Direct Investment,” (with \*Sarah Andrews and Sonal   
 Pandya), *Journal of Politics*.  
-2017		“Deal or No Deal: “Deal or No Deal: Institutions versus Social Networks in FDI,”   
+2017		“Deal or No Deal: Institutions versus Social Networks in FDI,”   
 *Economics and Politics*, 29:91-117 (with Sonal Pandya)  
 2017		“Harnessing the Diaspora: The Political Economy of Migrant Dual Citizenship.”   
 *Comparative Political Studies*, 50(1)75-101.  
@@ -261,7 +265,7 @@ Migration,” *Public Choice* 160:45-63 (with \*Brenton Peterson and Sonal Pandy
 2010		“Familiarity Breeds Investment: Diaspora Networks and International Investment,”   
 *American Political Science Review* 104:584-600.  
 2010		“The Political Economy of Exchange Rate Regimes in Transition Economies,” (with   
-Jeff Frieden and Neven Valev), *Review of International Organization* 5:1.  
+Jeff Frieden and Neven Valev), *Review of International Organizations* 5:1.  
 2009		“The Financial Crisis of 2007: Our Waterloo or Take a Chance on IPE,” *International*   
 *Interactions* 35:4 (with Sonal Pandya)  
 2008		“Cabinet Collapses and Currency Crashes,” *Political Research Quarterly*,   
@@ -293,7 +297,7 @@ Mukherjee)
 2003		“To Defend or to Devalue: The Political Economy of Exchange Rate Policy,”   
 *International Studies Quarterly*, 47:533-559.  
 2003		“Exchange Rates and Cohesion: Historical Perspectives and Political Economy   
-Considerations,” *Journal of Common Market Studies*, 41:797-822. (with Barry   
+Considerations,” *Journal of Common Market Studies*, 41:797-822 (with Barry   
 Eichengreen)  
 2003		“Explaining Wars Fought by Established Democracies: Do Institutional Constraints   
 Matter?” *Political Research Quarterly*, 56:385-400. (with Steve Chan).  
@@ -316,7 +320,7 @@ Edward Elgar Publishing.
 Cohen (ed) *International Money Relations in the New Global Economy*, Edward Elgar   
 Publishing.  
 1999		“Security Rights, Subsistence Rights, and Liberties: A Theoretical Survey of the   
-Empirical Landscape,” *Human Right Quarterly*, 21:403-43 (with \*Wesley   
+Empirical Landscape,” *Human Rights Quarterly*, 21:403-43 (with \*Wesley   
 Milner and Steve Poe).  
 1997		“Domestic and Systemic Determinants of Capital Controls,” *International Studies*  
  *Quarterly*, 41:435-54.  Reprinted in Benjamin Cohen (ed) *International*   
@@ -404,13 +408,13 @@ Lucadamo)
 **Work under review and in progress** (\*student)
 
 1\.			“Assessing the Spatial and Temporal Effects of Visa Restrictions in the Western   
-Hemisphere,” under 2nd review (with \*Sophia Marcus \* Jordi Amaral)  
+Hemisphere,” under 2nd review (with \*Sophia Marcus and \*Jordi Amaral)  
 2\.		“Racial Disparities in US Environmental Migration,” (with \*Gabriela Nagle Alverio),   
 Under review   
 3\.		“The Political Economy of Crypto-Currency: Theory and Evidence,” Under review (with   
 \*Ghita Chraibi)  
 4\.		“Aid and AIDs – PEPFAR, Globalization, and the Spread of Infectious Disease,” Under   
-Review (with Dennis Wesselbaum.  
+Review (with Dennis Wesselbaum).  
 5\.		“Climate Change, Agricultural Shocks, and Migration,” (with Sarah Bermeo and   
 \*Gabriela Nagle Alverio), Under review.  
 6\.		“Asymmetric Effects of Sanctuary Policies and 287(g) Agreements on Crime,” (with   
@@ -446,7 +450,6 @@ Provost
 Search Committee  
 2020 \- 2022	Member, School of Data Science Promotion and Tenure Committee  
 2019 \- 2021	Member, College of Arts and Sciences Promotion and Tenure Committee  
-2019 \- 2023	Associate Director, Global Infectious Disease Institute  
 2018 \- 2020	Member, Executive Advisory Board, Batten School of Leadership & Public Policy  
 2018 \- 2021	Member, Applied Research Institute, Advisory Committee  
 2019 \- 2020	Member, Organizational Excellence Research Council  
@@ -456,12 +459,12 @@ Search Committee
 2016 \- 2018	Chair, General Faculty Promotion Committee  
 2016 \- 2019	Member, Global Infectious Disease Steering Committee  
 2016 \- 2018	Member, Curriculum Committee, Batten School  
-2015 \- 2016	Chair, SeniorAssociate Dean for Administration and Finance Search Committee, College  
+2015 \- 2016	Chair, Senior Associate Dean for Administration and Finance Search Committee, College  
 		of Arts and Sciences  
 2013 \- 2016	Member, Data Science Institute Steering Committee  
 2013 \- 2014	Member, Dean Search Committee, Batten School  
 2012 \- 2014	Member, Presidential Strategic Planning Subcommittee on Streamlining  
-2012 \- 2013	Member, College of Art and Science Committee on Priorities and Resources  
+2012 \- 2013	Member, College of Arts and Sciences Committee on Priorities and Resources  
 2011 \- 2013	Member, University Libraries Committee  
 2009 \- 2013	Member, Quantitative Collaborative Steering Committee  
 2008 \- 2015	Director, Caplin Conference on the US in the World Economy, Miller Center  
