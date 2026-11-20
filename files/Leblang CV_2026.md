@@ -407,8 +407,8 @@ Lucadamo)
 
 **Work under review and in progress** (\*student)
 
-1\.			“Assessing the Spatial and Temporal Effects of Visa Restrictions in the Western   
-Hemisphere,” under 2nd review (with \*Sophia Marcus and \*Jordi Amaral)  
+1\.			“Deflection and Delay, Not Deterrence: Visa Restrictions and Irregular Migration to the   
+United States,” under 2nd review (with \*Sophia Marcus and \*Jordi Amaral)  
 2\.		“Racial Disparities in US Environmental Migration,” (with \*Gabriela Nagle Alverio),   
 Under review   
 3\.		“The Political Economy of Crypto-Currency: Theory and Evidence,” Under review (with   
@@ -420,7 +420,11 @@ Review (with Dennis Wesselbaum).
 6\.		“Asymmetric Effects of Sanctuary Policies and 287(g) Agreements on Crime,” (with   
 \*Christianna Palermo), Under Review  
 7\.		“When Do Law Enforcement Policies Generate Economic Spillovers?” (with   
-\*Christianna Palermo), Under Review
+\*Christianna Palermo), Under Review  
+8\.		“Bodies and Borders: Reproductive Nationalism from the 1920s to the 2020s,” Under   
+Review  
+9\.		“Make, Take, Buy, Build, Replace: Labor Supply and the Politics of Membership,” Under   
+Review
 
 **Invited academic lectures and seminars (last five years)**  
 2026		University of Wisconsin  
