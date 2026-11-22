@@ -186,6 +186,8 @@ Cambridge University Press
 
 **Refereed articles and contributions to conference volumes**
 
+Forthcoming	“Beyond Health: Loneliness and Productivity Growth Across Countries,” (with Dennis   
+Wesselbaum), *American Journal of Epidemiology*.  
 Forthcoming	“Food Insecurity as a Global Risk Factor for Loneliness and Social Isolation,” (with   
 Mariska Kappmeier and Dennis Wesselbaum),  *American Journal of Public Health*.  
 Forthcoming	“Heterogeneous Effects of Climate, Narco trafficking, and Violence on Central American  
